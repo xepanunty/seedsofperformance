@@ -2,10 +2,10 @@
 <extension version="3.1" type="plugin" group="finder" method="upgrade">
 	<name>Finder - JD Builder</name>
 	<creationDate>May 2020</creationDate>
-	<author>Team Joomdev</author>
-	<authorEmail>info@joomdev.com</authorEmail>
-	<authorUrl>https://www.joomdev.com</authorUrl>
-	<copyright>Copyright (C) 2020 Joomdev, Inc. All rights reserved.</copyright>
+	<author>Marcelo Teixeira</author>
+	<authorEmail>info@xepanunty.pt</authorEmail>
+	<authorUrl>https://xepanunty.pt</authorUrl>
+	<copyright>Copyright (C) 2020 xepanunty, Inc. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<version>1.0.0</version>
 	<description>PLG_FINDER_JDBUILDER_XML_DESCRIPTION</description>
